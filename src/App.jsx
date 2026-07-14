@@ -14,6 +14,9 @@ function App() {
       <Child />
       <Child />
       <Member />
+      <Member />
+      <Member />
+      <Member />
     </>
   );
 }
