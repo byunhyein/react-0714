@@ -1,0 +1,15 @@
+.picture-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.picture-label {
+  font-size: 16px;
+}
+
+.picture-img {
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
