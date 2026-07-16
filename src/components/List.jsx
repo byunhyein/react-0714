@@ -4,7 +4,7 @@ import Picture from "./Picture.jsx";
 const List = (props) => {
   return (
   <div className="list">
-    <div className="item">
+    <div className="item flex">
       <Title></Title>
       <Picture></Picture>
     </div>
